@@ -9,7 +9,7 @@ I am looking forward to when I can apply my skills and passions to bring forth p
 - 💬 Ask me about ayurveda and i'll never stop talking
 - 📫 How to reach me: sharontsanchez@gmail.com | www.linkedin.com/in/sharontsanchez/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have the patience to spend 8 hours cooking great meals
+- ⚡ Fun fact: I have the patience to spend 8 hours cooking great meals.
 
 <!--
 **sharontsanchez/sharontsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
