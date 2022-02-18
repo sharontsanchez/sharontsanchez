@@ -4,11 +4,11 @@
 
 I am looking forward to when I can apply my skills and passions to bring forth positive impact to local and international communities alike.
 
-- 🔨 I'm currently working with [a nonprofit that aims to help formerly incarcerated or disadvantaged people find careers in tech](https://www.underdogdevs.org/)
-- 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning), MangoDB, AWS
-- 👯🏽 I’m looking to collaborate on any Data Science project which seems interesting or useful
+- 🔨 I'm currently working...
+- 🌱 I’m currently learning...
+- 👯🏽 I’m looking to collaborate on any project which seems interesting or useful
 - 😄 Pronouns: [She/Her](https://www.mypronouns.org/she-her)
-- ⚡ Ask me about [ayurveda](https://en.wikipedia.org/wiki/Ayurveda) and i'll never stop talking 
+- ⚡ Ask me about [Ayurveda](https://en.wikipedia.org/wiki/Ayurveda) and i'll never stop talking 
 
 # GitHub Stats:
 <p align = "center">
