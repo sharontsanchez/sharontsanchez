@@ -2,7 +2,7 @@
 
 ### Find me on...
 
-[![Sharon Sanchez LinkedIn](https://img.shields.io/badge/Lance_Turbes-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sharontsanchez/)
+[![Sharon Sanchez LinkedIn](https://img.shields.io/badge/Sharon_Sanchez-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sharontsanchez/)
 [![Sharon Sanchez Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharontsanchez@gmail.com)
 
 I am looking forward to when I can apply my skills and passions to bring forth positive impact to local and international communities alike.
