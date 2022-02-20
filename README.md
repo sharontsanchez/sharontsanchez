@@ -2,7 +2,7 @@
 [![Sharon Sanchez LinkedIn](https://img.shields.io/badge/Sharon_Sanchez-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sharontsanchez/)
 [![Sharon Sanchez Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharontsanchez@gmail.com)
 
-I am looking forward to when I can apply my skills and passions to bring forth positive impact to local and international communities alike.
+I am looking forward to when I can apply my skills and passions to bring forth positive impact to local and international communities alike!
 
 - 🔨 I'm currently working on finishing my full stack web development course at Bloom Institute of Technology.
 - 🌱 I’m currently learning Node.js, Express, Middleware, Heroku, Relational Databases, Structured Query Language (SQL), Database Schema Design and Authentication and testing. 
