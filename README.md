@@ -5,7 +5,7 @@
 I am looking forward to when I can apply my skills and passions to bring forth positive impact to local and international communities alike!
 
 - 🔨 I'm currently working on finishing my full stack web development course at Bloom Institute of Technology.
-- 🌱 I’m currently learning Node.js, Express, Middleware, Heroku, Relational Databases, Structured Query Language (SQL), Database Schema Design and Authentication and testing. 
+- 🌱 I’m currently prepping for GCA through codesignal.
 - 👯🏽 I’m looking to collaborate on any project which seems interesting or useful to help me grow in the tech industry.
 - 😄 Pronouns: [She/Her](https://www.mypronouns.org/she-her)
 - ⚡ Ask me about [Ayurveda](https://en.wikipedia.org/wiki/Ayurveda) and i'll never stop talking 
