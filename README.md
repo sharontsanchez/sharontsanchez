@@ -8,7 +8,7 @@ I am looking forward to when I can apply my skills and passions to bring forth p
 - 🌱 I’m currently prepping for GCA (Advanced Computer Science) and Career Readiness. 
 - 👯🏽 I’m looking to collaborate on any project which seems interesting or useful to help me grow in the tech industry.
 - 😄 Pronouns: [She/Her](https://www.mypronouns.org/she-her)
-- ⚡ Ask me about [Ayurveda](https://en.wikipedia.org/wiki/Ayurveda) and i'll never stop talking 
+- ⚡ Ask me about [Ayurveda](https://en.wikipedia.org/wiki/Ayurveda) and i'll never stop talking.
 
 # GitHub Stats:
 <p align = "center">
