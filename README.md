@@ -3,7 +3,7 @@
 [![Sharon Sanchez Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharontsanchez@gmail.com)
 
 - 🔨 I'm currently working on finishing my full stack web development course at Bloom Institute of Technology.
-- 🌱 I’m currently prepping for GCA (Advanced Computer Science) and Career Readiness. 
+- 🌱 This month is about learning for GCA (Advanced Computer Science) and Career Readiness. 
 - 👯🏽 I’m looking to collaborate on any project which seems interesting or useful to help me grow in the tech industry.
 - 😄 Pronouns: [She/Her](https://www.mypronouns.org/she-her)
 - ⚡ Ask me about [Ayurveda](https://www.keralatourism.org/highresolutionimages/ayurveda/) and i'll never stop talking.
