@@ -6,7 +6,7 @@
 - 🌱 I’m currently prepping for GCA (Advanced Computer Science) and Career Readiness. 
 - 👯🏽 I’m looking to collaborate on any project which seems interesting or useful to help me grow in the tech industry.
 - 😄 Pronouns: [She/Her](https://www.mypronouns.org/she-her)
-- ⚡ Ask me about [Ayurveda](https://en.wikipedia.org/wiki/Ayurveda) and i'll never stop talking.
+- ⚡ Ask me about [Ayurveda](https://www.keralatourism.org/highresolutionimages/ayurveda/) and i'll never stop talking.
 
 I am looking forward to when I can apply my skills and passions to bring forth positive impact to local and international communities alike!
 
