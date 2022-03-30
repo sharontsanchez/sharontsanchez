@@ -2,7 +2,6 @@
 [![Sharon Sanchez LinkedIn](https://img.shields.io/badge/Sharon_Sanchez-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sharontsanchez/)
 [![Sharon Sanchez Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharontsanchez@gmail.com)
 
-                                                             🙏🏽🙏🙏🏽🙏🏻🙏🏿🙏
 - 👩‍👧 Growing up in an era of floppy-disk and dial-up internet, I never imagined to find myself in the world of programming. Nevertheless I found joy as I explained to my 60-year old mother about the intricacies that went into coding a website, adding responsive design to make it accessible and explaining the details.
 - 🔨 I am currently studying Full Stack Web Development at Bloom Institute of Tech School(FKA Lambda School), an intensive programming school focusing on JavaScript, HTML, CSS, Node, React, Python, Redux, and SQL.
 - 💻 This month is about learning for GCA (Advanced Computer Science) and Career Readiness. 
@@ -14,11 +13,6 @@
 
 
 
-# GitHub Stats:
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=sharontsanchez&show_icons=true&theme=radical&line_height=33">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=sharontsanchez&theme=blue-green)](https://github.com/sharontsanchez/github-readme-streak-stats)">
-</p>
 
 # Languages: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
