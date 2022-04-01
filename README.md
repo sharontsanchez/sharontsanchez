@@ -3,7 +3,7 @@
 [![Sharon Sanchez Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharontsanchez@gmail.com)
 
 - 👩‍👧 Growing up in an era of floppy-disk and dial-up internet, I never imagined to find myself in the world of programming. Nevertheless I found joy as I explained to my 60-year old mother about the intricacies that went into coding a website, adding responsive design to make it accessible and explaining the details.
-- 🔨 I am a Full Stack Web Developer a focusing on the implementation of JavaScript, HTML, CSS, Node, React, Python, Redux, and SQL to create interactive web applications!
+- 🔨 I am a Full Stack Web Developer focusing on the implementation of JavaScript, HTML, CSS, Node, React, Python, Redux, and SQL to create interactive web applications!
 - 💻 This month is about learning for GCA (Advanced Computer Science) and Career Readiness. 
 - 👩‍💻 I am looking forward to when I can apply my skills and passions to bring forth positive impact to local and international communities alike.
 - 🌴 In my spare time, I enjoy cooking divine food, wilderness adventures, finding meaning in sustainability, storytelling through travel. 
