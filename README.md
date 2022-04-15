@@ -10,10 +10,10 @@
 
 - 👩‍💻 I am looking forward to when I can apply my skills and passions to bring forth positive impact to local and international communities alike.
 
-- 🌴 In my spare time, I enjoy cooking divine food, wilderness adventures, finding meaning in sustainability, storytelling through travel. 
+- 🌴 In my spare time, I enjoy exploring the wilderness, finding meaning in sustainability, storytelling through travel. 
 
 - 😄 Pronouns: [She/Her](https://www.mypronouns.org/she-her)
-- ⚡ Ask me about [Ayurveda](https://www.keralatourism.org/highresolutionimages/ayurveda/) and i'll never stop talking.
+- ⚡ Ask me about [India] (https://www.youtube.com/watch?v=77czO8sxABI&ab_channel=antoinejanssens) and i'll never stop talking.
 
 
 
