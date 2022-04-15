@@ -13,7 +13,7 @@
 - 🌴 In my spare time, I enjoy exploring the wilderness, finding meaning in sustainability, storytelling through travel. 
 
 - 😄 Pronouns: [She/Her](https://www.mypronouns.org/she-her)
-- ⚡ Ask me about [India] (https://www.youtube.com/watch?v=77czO8sxABI&ab_channel=antoinejanssens) and i'll never stop talking.
+- ⚡ Ask me about [India](https://www.youtube.com/watch?v=77czO8sxABI&ab_channel=antoinejanssens) and i'll never stop talking.
 
 
 
