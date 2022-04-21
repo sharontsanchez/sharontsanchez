@@ -6,7 +6,7 @@
 
 - 🔨 I am a Full Stack Web Developer focusing on the implementation of JavaScript, HTML, CSS, Node, React, Python, Redux, and SQL to create interactive web applications!
 
-- 💻 This month, I am working with a non-profit organization, CoderHeroes who establishes the next generation of innovators and disruptors by empowering opportunity youth and young adults to innovate community solutions through code.
+- 💻 This month, I am working with an organization, CoderHeroes who establishes the next generation of innovators and disruptors by empowering opportunity youth and young adults to innovate community solutions through code.
 
 - 👩‍💻 I am looking forward to when I can apply my skills and passions to bring forth positive impact to local and international communities alike.
 
